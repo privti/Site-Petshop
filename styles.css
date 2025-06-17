@@ -1,6 +1,18 @@
-.titulo-principal {
-    font-size: 10px;
-    color: #ffae00;
-    text-align: left;
-    margin-top: 1px;
+*{
+    background-color:  #FADADD;
 }
+
+.titulo-principal {
+    font-size: 80px;
+    color:black;
+    text-align: center;
+    margin-top: 1px;
+    font-style:oblique;
+}
+.menu-principal{
+     font-size: 30px;
+    color: black; 
+ 
+}
+
+
